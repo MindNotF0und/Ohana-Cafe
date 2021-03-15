@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 11.2.1//EN
+N:;;;;
+FN:Ohana Cafè
+ORG:Ohana Cafè;
+EMAIL;type=INTERNET;type=pref:ohanacafe@outlook.it
+TEL;type=pref:+393519944309
+ADR;type=pref:;;Corso Torino\, 27 D;Novara;NO;28100;Italia
+item1.URL;type=pref:https://ohanacafe.netlify.app/
+item1.X-ABLabel:_$!<HomePage>!$_
+item2.URL:https://www.facebook.com/Ohana-Caf%C3%A8-1760195374217789/
+item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL:https://www.instagram.com/ohana_cafe_27/
+item3.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+END:VCARD
